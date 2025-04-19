@@ -36,7 +36,7 @@ const EditUser = () => {
       <div className="column is-half">
         <form onSubmit={updateUser}>
           <div className="field">
-            <label className="label">Name</label>
+            <label className="label">Nama</label>
             <div className="control">
               <input
                 type="text"
@@ -48,7 +48,7 @@ const EditUser = () => {
             </div>
           </div>
           <div className="field">
-            <label className="label">Story</label>
+            <label className="label">NIM</label>
             <div className="control">
               <input
                 type="text"

@@ -31,8 +31,8 @@ const UserList = () => {
                 <thead>
                     <tr>
                         <th>Id</th>
-                        <th>Name</th>
-                        <th>Story</th>
+                        <th>Nama</th>
+                        <th>NIM</th>
                         <th>Option</th>
                     </tr>
                 </thead>
